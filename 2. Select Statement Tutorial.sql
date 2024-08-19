@@ -1,3 +1,5 @@
+#####  SELECT Statement is used to help filter/select Columns
+
 SELECT * 
 FROM parks_and_recreation.employee_demographics;
 
